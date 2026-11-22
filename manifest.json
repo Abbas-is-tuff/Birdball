@@ -1,0 +1,12 @@
+{
+  "name": "Birdball",
+  "short_name": "Birdball",
+  "description": "3D bird football – play with your flock, even offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0c1a2c",
+  "theme_color": "#0c1a2c",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }]
+}
