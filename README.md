@@ -2,7 +2,7 @@
 
 A 3D football (soccer) game played by birds, in your browser. Works on iPad, phones and computers. Nothing to install.
 
-**▶️ Play:** https://abbas-is-tuff.github.io/birdball/ (after GitHub Pages is turned on, see below)
+**▶️ Play:** https://birdie-games.github.io/birdball/ (after GitHub Pages is turned on, see below)
 
 ## The squad – Flock United
 
@@ -63,7 +63,7 @@ On a computer you can also just download `index.html` and double-click it. The w
 
 1. In this repo, go to **Settings → Pages**.
 2. Under **Build and deployment**, set Source to **Deploy from a branch**, Branch **main**, folder **/ (root)**, and press **Save**.
-3. After a minute the game is live at `https://abbas-is-tuff.github.io/birdball/`.
+3. After a minute the game is live at `https://birdie-games.github.io/birdball/`.
 
 ## Made with
 
